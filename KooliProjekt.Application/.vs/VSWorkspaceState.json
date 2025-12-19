@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Behaviors",
+    "\\bin",
+    "\\bin\\Debug",
+    "\\bin\\Release",
+    "\\Data",
+    "\\Features",
+    "\\Features\\Projects",
+    "\\Infrastructure",
+    "\\Infrastructure\\Results"
+  ],
+  "SelectedNode": "\\Behaviors\\ValidationBehavior.cs",
+  "PreviewInSolutionExplorer": false
+}

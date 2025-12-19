@@ -1,0 +1,530 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Behaviors\\ValidationBehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Behaviors\\ValidationBehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Behaviors\\TransactionalBehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Behaviors\\TransactionalBehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Behaviors\\ITransactional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Behaviors\\ITransactional.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Behaviors\\ErrorHandlingBehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Behaviors\\ErrorHandlingBehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\ProjectWorkLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ProjectWorkLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\ProjectUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ProjectUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\ProjectTeam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ProjectTeam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\ProjectTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ProjectTask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\PagingExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\PagingExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\Project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\Entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\Entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\SaveProjectCommandValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Features\\Projects\\SaveProjectCommandValidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\SaveProjectCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Features\\Projects\\SaveProjectCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\SaveProjectCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Features\\Projects\\SaveProjectCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\ProjectsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Features\\Projects\\ProjectsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\ProjectsQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Features\\Projects\\ProjectsQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\GetProjectsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Features\\Projects\\GetProjectsQueryHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\GetProjectsQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Features\\Projects\\GetProjectsQuery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\DeleteProjectCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Features\\Projects\\DeleteProjectCommandHandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\DeleteProjectCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Features\\Projects\\DeleteProjectCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Results\\OperationResultT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Results\\OperationResultT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Results\\OperationResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Results\\OperationResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Results\\LookupItemT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Results\\LookupItemT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Results\\LookupItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Results\\LookupItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Paging\\PagedResultBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Paging\\PagedResultBase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Paging\\PagedResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Infrastructure\\Paging\\PagedResult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\ApplicationDbContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\KooliProjekt.Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KooliProjekt.Application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValidationBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeDocumentMoniker": "Behaviors\\ValidationBehavior.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Behaviors\\ValidationBehavior.cs",
+              "RelativeToolTip": "Behaviors\\ValidationBehavior.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:21:14.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionalBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Behaviors\\TransactionalBehavior.cs",
+              "RelativeDocumentMoniker": "Behaviors\\TransactionalBehavior.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Behaviors\\TransactionalBehavior.cs",
+              "RelativeToolTip": "Behaviors\\TransactionalBehavior.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:21:11.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITransactional.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Behaviors\\ITransactional.cs",
+              "RelativeDocumentMoniker": "Behaviors\\ITransactional.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Behaviors\\ITransactional.cs",
+              "RelativeToolTip": "Behaviors\\ITransactional.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:21:09.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorHandlingBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Behaviors\\ErrorHandlingBehavior.cs",
+              "RelativeDocumentMoniker": "Behaviors\\ErrorHandlingBehavior.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Behaviors\\ErrorHandlingBehavior.cs",
+              "RelativeToolTip": "Behaviors\\ErrorHandlingBehavior.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:21:05.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\SeedData.cs",
+              "RelativeToolTip": "Data\\SeedData.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAD0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:43.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectWorkLog.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\ProjectWorkLog.cs",
+              "RelativeDocumentMoniker": "Data\\ProjectWorkLog.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\ProjectWorkLog.cs",
+              "RelativeToolTip": "Data\\ProjectWorkLog.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:35.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProjectUser.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\ProjectUser.cs",
+              "RelativeDocumentMoniker": "Data\\ProjectUser.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\ProjectUser.cs",
+              "RelativeToolTip": "Data\\ProjectUser.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:32.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectTeam.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\ProjectTeam.cs",
+              "RelativeDocumentMoniker": "Data\\ProjectTeam.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\ProjectTeam.cs",
+              "RelativeToolTip": "Data\\ProjectTeam.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:30.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProjectTask.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\ProjectTask.cs",
+              "RelativeDocumentMoniker": "Data\\ProjectTask.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\ProjectTask.cs",
+              "RelativeToolTip": "Data\\ProjectTask.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:28.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\Project.cs",
+              "RelativeDocumentMoniker": "Data\\Project.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\Project.cs",
+              "RelativeToolTip": "Data\\Project.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:24.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PagingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\PagingExtensions.cs",
+              "RelativeDocumentMoniker": "Data\\PagingExtensions.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\PagingExtensions.cs",
+              "RelativeToolTip": "Data\\PagingExtensions.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:23.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:21.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\Entity.cs",
+              "RelativeDocumentMoniker": "Data\\Entity.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Data\\Entity.cs",
+              "RelativeToolTip": "Data\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:20.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SaveProjectCommandValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\SaveProjectCommandValidator.cs",
+              "RelativeDocumentMoniker": "Features\\Projects\\SaveProjectCommandValidator.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\SaveProjectCommandValidator.cs",
+              "RelativeToolTip": "Features\\Projects\\SaveProjectCommandValidator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:15.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SaveProjectCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\SaveProjectCommandHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Projects\\SaveProjectCommandHandler.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\SaveProjectCommandHandler.cs",
+              "RelativeToolTip": "Features\\Projects\\SaveProjectCommandHandler.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:11.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SaveProjectCommand.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\SaveProjectCommand.cs",
+              "RelativeDocumentMoniker": "Features\\Projects\\SaveProjectCommand.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\SaveProjectCommand.cs",
+              "RelativeToolTip": "Features\\Projects\\SaveProjectCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:07.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProjectsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\ProjectsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Projects\\ProjectsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\ProjectsQueryHandler.cs",
+              "RelativeToolTip": "Features\\Projects\\ProjectsQueryHandler.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:06.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProjectsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\ProjectsQuery.cs",
+              "RelativeDocumentMoniker": "Features\\Projects\\ProjectsQuery.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\ProjectsQuery.cs",
+              "RelativeToolTip": "Features\\Projects\\ProjectsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:06.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetProjectsQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\GetProjectsQueryHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Projects\\GetProjectsQueryHandler.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\GetProjectsQueryHandler.cs",
+              "RelativeToolTip": "Features\\Projects\\GetProjectsQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:05.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetProjectsQuery.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\GetProjectsQuery.cs",
+              "RelativeDocumentMoniker": "Features\\Projects\\GetProjectsQuery.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\GetProjectsQuery.cs",
+              "RelativeToolTip": "Features\\Projects\\GetProjectsQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:04.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteProjectCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\DeleteProjectCommandHandler.cs",
+              "RelativeDocumentMoniker": "Features\\Projects\\DeleteProjectCommandHandler.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\DeleteProjectCommandHandler.cs",
+              "RelativeToolTip": "Features\\Projects\\DeleteProjectCommandHandler.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:02.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DeleteProjectCommand.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\DeleteProjectCommand.cs",
+              "RelativeDocumentMoniker": "Features\\Projects\\DeleteProjectCommand.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Features\\Projects\\DeleteProjectCommand.cs",
+              "RelativeToolTip": "Features\\Projects\\DeleteProjectCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:20:01.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OperationResultT.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Results\\OperationResultT.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Results\\OperationResultT.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Results\\OperationResultT.cs",
+              "RelativeToolTip": "Infrastructure\\Results\\OperationResultT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:19:58.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Results\\OperationResult.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Results\\OperationResult.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Results\\OperationResult.cs",
+              "RelativeToolTip": "Infrastructure\\Results\\OperationResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:19:57.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LookupItemT.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Results\\LookupItemT.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Results\\LookupItemT.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Results\\LookupItemT.cs",
+              "RelativeToolTip": "Infrastructure\\Results\\LookupItemT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:19:56.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LookupItem.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Results\\LookupItem.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Results\\LookupItem.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Results\\LookupItem.cs",
+              "RelativeToolTip": "Infrastructure\\Results\\LookupItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:19:55.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PagedResultBase.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Paging\\PagedResultBase.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Paging\\PagedResultBase.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Paging\\PagedResultBase.cs",
+              "RelativeToolTip": "Infrastructure\\Paging\\PagedResultBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:19:53.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Paging\\PagedResult.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Paging\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Infrastructure\\Paging\\PagedResult.cs",
+              "RelativeToolTip": "Infrastructure\\Paging\\PagedResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:19:52.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-19T11:19:39.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "KooliProjekt.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\KooliProjekt.Application.csproj",
+              "RelativeDocumentMoniker": "KooliProjekt.Application.csproj",
+              "ToolTip": "C:\\Users\\kiahe\\Desktop\\p2\\KooliProjekt.Application\\KooliProjekt.Application.csproj",
+              "RelativeToolTip": "KooliProjekt.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-19T11:19:28.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
