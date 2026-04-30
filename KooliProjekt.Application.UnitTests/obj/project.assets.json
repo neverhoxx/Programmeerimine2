@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "C:\\Users\\opilane\\Desktop\\programmerimine2-main\\KooliProjekt.Application\\KooliProjekt.Application.csproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\opilane\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\opilane\\Desktop\\programmerimine2-main\\KooliProjekt.Application.UnitTests\\KooliProjekt.UnitTests.csproj",
+      "projectName": "KooliProjekt.UnitTests",
+      "projectPath": "C:\\Users\\opilane\\Desktop\\programmerimine2-main\\KooliProjekt.Application.UnitTests\\KooliProjekt.UnitTests.csproj",
+      "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\opilane\\Desktop\\programmerimine2-main\\KooliProjekt.Application.UnitTests\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\opilane\\Desktop\\programmerimine2-main\\KooliProjekt.Application\\KooliProjekt.Application.csproj": {
+              "projectPath": "C:\\Users\\opilane\\Desktop\\programmerimine2-main\\KooliProjekt.Application\\KooliProjekt.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\opilane\\Desktop\\programmerimine2-main\\KooliProjekt.Application\\KooliProjekt.Application.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\opilane\\Desktop\\programmerimine2-main\\KooliProjekt.Application\\KooliProjekt.Application.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
