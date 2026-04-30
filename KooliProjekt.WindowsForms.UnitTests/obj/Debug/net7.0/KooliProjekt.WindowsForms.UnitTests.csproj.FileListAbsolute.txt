@@ -1,0 +1,6 @@
+C:\Users\opilane\Desktop\programmerimine2-main\KooliProjekt.WindowsForms.UnitTests\bin\Debug\net7.0\CoverletSourceRootsMapping
+C:\Users\opilane\Desktop\programmerimine2-main\KooliProjekt.WindowsForms.UnitTests\obj\Debug\net7.0\KooliProjekt.WindowsForms.UnitTests.csproj.AssemblyReference.cache
+C:\Users\opilane\Desktop\programmerimine2-main\KooliProjekt.WindowsForms.UnitTests\obj\Debug\net7.0\KooliProjekt.WindowsForms.UnitTests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Desktop\programmerimine2-main\KooliProjekt.WindowsForms.UnitTests\obj\Debug\net7.0\KooliProjekt.WindowsForms.UnitTests.AssemblyInfoInputs.cache
+C:\Users\opilane\Desktop\programmerimine2-main\KooliProjekt.WindowsForms.UnitTests\obj\Debug\net7.0\KooliProjekt.WindowsForms.UnitTests.AssemblyInfo.cs
+C:\Users\opilane\Desktop\programmerimine2-main\KooliProjekt.WindowsForms.UnitTests\obj\Debug\net7.0\KooliProjekt.WindowsForms.UnitTests.csproj.CoreCompileInputs.cache
