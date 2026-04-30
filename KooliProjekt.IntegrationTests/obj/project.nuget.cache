@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "eOu945pPFvgYO170/SQ686ZTDRDT8Ho/giFuhb7VChXKA8ibJ4w5MqCaQcHI9ZfANSHVA5ESo3M6UOAYpVg2Sg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\opilane\\Desktop\\programmerimine2-main\\KooliProjekt.IntegrationTests\\KooliProjekt.IntegrationTests.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\opilane\\Desktop\\programmerimine2-main\\KooliProjekt.WebAPI\\KooliProjekt.WebAPI.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\opilane\\Desktop\\programmerimine2-main\\KooliProjekt.WebAPI\\KooliProjekt.WebAPI.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
