@@ -1,0 +1,12 @@
+{
+  "runtimeOptions": {
+    "tfm": "net10.0",
+    "additionalProbingPaths": [
+      "C:\\Users\\opilane\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\opilane\\.nuget\\packages"
+    ],
+    "configProperties": {
+      "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
+    }
+  }
+}
