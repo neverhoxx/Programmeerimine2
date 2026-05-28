@@ -1,0 +1,14 @@
+<h2>Project</h2>
+<form (ngSubmit)="save()">
+  <div>
+    <label>ID</label>
+    <input type="text" [value]="form.value.id" readonly />
+  </div>
+  <div>
+    <label>Name</label>
+    <input type="text" formControlName="name" />
+  </div>
+  <div>
+    <button type="submit">Save</button>
+  </div>
+</form>

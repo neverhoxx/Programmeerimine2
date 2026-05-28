@@ -1,0 +1,13 @@
+<h2>Projects</h2>
+<p><a routerLink="/projects/edit/0">Add new project</a></p>
+<table>
+  <thead>
+    <tr><th>ID</th><th>Name</th></tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let p of projects">
+      <td>{{p.id}}</td>
+      <td><a [routerLink]="['/projects/edit', p.id]">{{p.name}}</a></td>
+    </tr>
+  </tbody>
+</table>

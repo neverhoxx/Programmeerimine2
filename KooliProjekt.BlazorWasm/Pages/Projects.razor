@@ -1,0 +1,54 @@
+﻿@page "/lists"
+@inject IApiClient apiClient
+
+<PageTitle>Projects</PageTitle>
+
+<h1>projects</h1>
+
+@if (projects == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <p><a class="btn btn-primary" href="/create">Add new</a></p>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Name</th>
+                <th>StartDate</th>
+                <th>DueDate</th>
+                <th>Budget</th>
+                <th>PricePerHour</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var project in projects)
+            {
+                <tr>
+                    <td>@project.Id</td>
+                    <td>@project.Name</td>
+                    <td>@project.StartDate.ToShortDateString()</td>
+                    <td>@project.DueDate.ToShortDateString()</td>
+                    <td>@project.Budget</td>
+                    <td>@project.PricePerHour</td>
+                    <td>
+                        <a class="btn btn-success" href="/edit/@project.Id">Edit</a>
+                        <button class="btn btn-danger">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private IList<Project> projects;
+
+    protected override async Task OnInitializedAsync()
+    {
+        var result = await apiClient.List(1, 100);
+        projects = result.Value.Results;
+    }
+}
